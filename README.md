@@ -1,5 +1,7 @@
 # GEX Analytics Backend 🚀
 
+DEMO LINK: http://gex.kctradings.com/
+
 > Professional-grade Options Flow & Gamma Exposure Analysis Engine for Intraday Trading
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
